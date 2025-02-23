@@ -1,2 +1,8 @@
 # Ori_Pedmanager
-Trades Script Very Easy !  Discord : us3rrrr. (ori)  enjoy !  GitHub Link : https://github.com/Oriiiiii6
+Ped Manager Script Very Easy !
+
+Discord : us3rrrr. (ori)
+
+enjoy !
+
+GitHub Link : https://github.com/Oriiiiii6
